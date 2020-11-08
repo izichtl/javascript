@@ -1,0 +1,43 @@
+<hmtl> 
+    <head>
+        <style
+            type='text/css' href="lscrud.css"
+        >
+  
+        </style>
+    <title>LS- CRUD</title>
+    <script type="module" src="start.js"></script>
+    <script type="module" src="start.js"></script>
+</head>
+<body>
+    
+    <h2>LS Crud</h2>
+        <p>Cadastro de usuários feito com Local Storage</p>
+        <div id='input'>
+        <form class="bola">
+            <label for="fname">Primeiro nome:</label><br>
+            <input class="bola" type="text" id="fname" name="fname" placeholder="Primeiro Nome"><br>
+            <label for="lname">Segundo Nome:</label><br>
+            <input  class="bola" type="text" id="lname" name="lname" placeholder="Ultimo Nome"><br>
+            
+            <input type="submit" id='post' value="Inserir">
+            <input type="submit" id='get'  value="Mostrar"><br>
+            <br>
+            
+            <label for="itemid">Isira Id do usuário para atualizar</label><br>
+            <input class="bola" type="text" id="itemId" name="itemid" placeholder="ID">
+            <br>
+            <input type="submit" id='upd'  value="Atualizar">
+            <br><br>
+            
+            
+            <label for="clear">Limpar Local Storage</label><br>
+            
+            <input type="submit" id='clear' value="Apagar Todos">
+        </form> 
+        </div id='response'>        
+        <div id="fireCanvas">
+            <p>Carregue os usuários para visualizar</p>
+            </div>
+        </body>
+</html>
