@@ -1,0 +1,102 @@
+SUMÁRIO 
+ 
+ECONOMIA 
+ 
+Tesouro Nacional Transparente 
+Dados abertos do Banco Mundial 
+Fundo Monetário Internacional 
+Financial Times 
+Global Financial Data 
+Banco central dos Estados Unidos 
+Glassdoor 
+Opencorporates 
+Google Finance 
+UN Comtrade Database 
+Crypto Compare 
+Mercado Bitcoin API 
+ 
+SAÚDE 
+ 
+Ministério da Saúde - Dados abertos 
+ANVISA 
+DATASUS 
+Bulário Eletrônico 
+Repositório de dados abertos da OMS 
+Nações Unidas - estudos sobre dependência química 
+U.S Food & Drug 
+HealthData.gov 
+Nacional Center Institute 
+Centers for Disease Control and Prevention 
+OSDC - Open Science Data Cloud 
+NASA- PDS: The planetary Data System 
+Broad Institute 
+ANALISEOSDADOS.COM.BR 
+
+ 
+ 
+INDEXADORES 
+Google public data explorer 
+Registry of Open Data on AWS 
+Amazon - Million Song Dataset 
+ 
+GOVERNAMENTAIS 
+Portal da Transparência 
+Portal Brasileiro de dados Abertos 
+Painel de dados abertos 
+Brasil IO 
+Catálogo dados Brasil 
+Open data Monitor 
+E.U Open data portal 
+Eurostat 
+United States Census Bureau 
+Data Gov 
+Data Gov.UK 
+Uk Data Service 
+Canada Open Data 
+Australian Open Data 
+Africa Open Data 
+Data Catalogs 
+SEGURANÇA PÚBLICA 
+CIA 
+FBI 
+Ofensas Sexuais 
+JORNALISMO 
+FiveThirtyEight 
+The New York Times 
+COMUNIDADE 
+DBpedia 
+FreeCodeCamp 
+ANALISEOSDADOS.COM.BR 
+
+ 
+Kaggle 
+UCI Machine Learning repository 
+Open Data Network 
+Reddit 
+PROJETOS SOCIAIS 
+UNICEF 
+HRDAG 
+Anistia internacional 
+MARKETING E MÍDIAS SOCIAIS 
+Yelp 
+Facebook 
+Twitter API 
+Instagram API 
+Foursquare API 
+Hubspot 
+AirBnb 
+Uber developers 
+Marvel API 
+Google Trends 
+FONTES ACADÊMICAS 
+Google Scholar 
+Europeana Collections 
+MEIO AMBIENTE 
+Climate Data Online 
+Nasa Earth Observatory 
+CCI - Open data Portal 
+OECD 
+FONTES DE ENERGIA 
+IEA Atlas of Energy 
+EPE - Empresa de Pesquisa Energética 
+ANEEL

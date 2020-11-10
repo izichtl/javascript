@@ -1,0 +1,16 @@
+{
+  "name": "pdfToText",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdfServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "0.13.0",
+    "pdf-extraction": "1.0.2"
+  }
+}
