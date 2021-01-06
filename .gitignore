@@ -1,0 +1,9 @@
+tailwindP/node_modules
+pdfToText/node_modules
+Nodejs-Apis/FunctionSync/node_modules
+Nodejs-Apis/FunctionSync/Events/node_modules
+Nodejs-Apis/NodeLists/for-forIn/node_modules
+Nodejs-Apis/Tests/mochaTests/node_modules
+public/build
+yarn.lock
+yarn-error.log
